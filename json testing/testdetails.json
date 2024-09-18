@@ -1,0 +1,52 @@
+{
+  "teaminfo": {
+    "id": "22",
+    "uid": "s:20~l:28~t:22",
+    "slug": "arizona-cardinals",
+    "location": "Arizona",
+    "name": "Cardinals",
+    "nickname": "Cardinals",
+    "abbreviation": "ARI",
+    "displayName": "Arizona Cardinals",
+    "shortDisplayName": "Cardinals",
+    "color": "a40227",
+    "alternateColor": "ffffff",
+    "isActive": true,
+    "logos": [
+      {
+        "href": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png",
+        "width": 500,
+        "height": 500,
+        "alt": "",
+        "rel": ["full", "default"],
+        "lastUpdated": "2024-06-25T18:43Z"
+      },
+      {
+        "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/ari.png",
+        "width": 500,
+        "height": 500,
+        "alt": "",
+        "rel": ["full", "dark"],
+        "lastUpdated": "2024-06-25T18:43Z"
+      },
+      {
+        "href": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png",
+        "width": 500,
+        "height": 500,
+        "alt": "",
+        "rel": ["full", "scoreboard"],
+        "lastUpdated": "2024-06-25T18:44Z"
+      },
+      {
+        "href": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/ari.png",
+        "width": 500,
+        "height": 500,
+        "alt": "",
+        "rel": ["full", "scoreboard", "dark"],
+        "lastUpdated": "2024-06-25T18:43Z"
+      }
+    ],
+    "groups": { "id": "3", "parent": { "id": "7" }, "isConference": false },
+    "standingSummary": "2nd in NFC West"
+  }
+}
