@@ -1,6 +1,6 @@
 # gameday.
 
-gameday. is a web application that provides a breakdown of NFL matchups. Users can select two NFL teams and view statistics and historical matchups.
+gameday. is an interactive web application designed for NFL enthusiasts, analysts, and casual viewers alike. It provides a comprehensive breakdown of matchups between any two NFL teams, offering real-time statistics, key player performance, and a detailed history of previous encounters.
 
 ## Features
 - Select two NFL teams to compare their current statistics.
