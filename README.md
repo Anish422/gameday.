@@ -14,3 +14,19 @@ gameday. is an interactive web application designed for NFL enthusiasts, analyst
 - **HTML/CSS**: Frontend UI with a modern design using styled HTML and custom CSS.
 - **JavaScript**: Handles fetching and displaying data dynamically.
 - **NFL API**: Data is retrieved using the NFL API from RapidAPI.
+
+## Getting Started
+
+To get a local copy up and running, follow these steps:
+
+### Prerequisites
+Make sure you have the following installed on your machine:
+- **Python 3.x**: [Download Python](https://www.python.org/downloads/)
+- **Git**: [Download Git](https://git-scm.com/downloads)
+
+### Installation Steps
+
+1. **Clone the Repository**  
+   Open a terminal and run the following command to clone the repository:
+   ```bash
+   git clone https://github.com/your-username/gameday.git
