@@ -17,7 +17,7 @@ gameday. is an interactive web application designed for NFL enthusiasts, analyst
 
 ## Getting Started
 
-To get a local copy up and running, follow these steps:
+Flask deployment not currently active. To test the app locally, follow these steps:
 
 ### Prerequisites
 Make sure you have the following installed on your machine:
