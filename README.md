@@ -23,5 +23,4 @@ Flask deployment not currently active. To test the app locally, follow these ste
 2) Substitute the API key in app.py with your own key from [Rapid API - NFL](https://rapidapi.com/Creativesdev/api/nfl-api-data/playground/apiendpoint_de643883-47b6-44c2-b8b8-fd39f4f9170a)
 3) pip install Flask requests
 4) Open your browser and navigate to http://127.0.0.1:5000/
-5) Play around with** gameday.
-**
+5) it's gameday.
