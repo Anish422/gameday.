@@ -28,5 +28,6 @@ Make sure you have the following installed on your machine:
 
 1. **Clone the Repository**  
    Open a terminal and run the following command to clone the repository:
+   
    ```bash
    git clone https://github.com/your-username/gameday.git
