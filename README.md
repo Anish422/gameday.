@@ -1,5 +1,7 @@
 # gameday.
 
+[![Watch the video](https://img.youtube.com/vi/A5HN5pMBneY/maxresdefault.jpg)](https://www.youtube.com/watch?v=A5HN5pMBneY)
+
 gameday. is an interactive web application designed for NFL enthusiasts, analysts, and casual viewers alike. It provides a comprehensive breakdown of matchups between any two NFL teams, offering real-time statistics, key player performance, and a detailed history of previous encounters.
 
 ## Features
