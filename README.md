@@ -15,19 +15,12 @@ gameday. is an interactive web application designed for NFL enthusiasts, analyst
 - **JavaScript**: Handles fetching and displaying data dynamically.
 - **NFL API**: Data is retrieved using the NFL API from RapidAPI.
 
-## Getting Started
+## Try it Yourself
 
 Flask deployment not currently active. To test the app locally, follow these steps:
 
-### Prerequisites
-Make sure you have the following installed on your machine:
-- **Python 3.x**: [Download Python](https://www.python.org/downloads/)
-- **Git**: [Download Git](https://git-scm.com/downloads)
-
-### Installation Steps
-
-1. **Clone the Repository**  
-   Open a terminal and run the following command to clone the repository:
-   
-   ```bash
-   git clone https://github.com/your-username/gameday.git
+1) Clone the Repository
+2) Substitute the API key in app.py with your own key from [Rapid API - NFL](https://rapidapi.com/Creativesdev/api/nfl-api-data/playground/apiendpoint_de643883-47b6-44c2-b8b8-fd39f4f9170a)
+3) pip install Flask requests
+4) Open your browser and navigate to http://127.0.0.1:5000/
+5) Play around with gameday.
